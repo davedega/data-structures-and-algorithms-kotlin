@@ -1,16 +1,23 @@
 import countingelements.PermCheck
 import iterations.Iterations
+import timecomplexity.PermMissingElem
 
 fun main(args: Array<String>) {
 
     // Lesson 1 Iterations
     // BinaryGap
     val iterations = Iterations()
-    println("\n"+iterations.solution(561892))
+//    println("\n" + iterations.solution(561892))
+
+    // Leson 3 Time complexity
+    // PermMissingElem
+    val timeComlexity = PermMissingElem()
+    print("missing number: " + timeComlexity.solution(intArrayOf(1)))
 
     // Lesson 4 Counting Elements
     // PermCheck
     val permCheck = PermCheck()
-    val test = intArrayOf(1)
-    print(permCheck.solution(test))
+//    print(permCheck.solution(intArrayOf(1)))
+
+
 }
