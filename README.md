@@ -17,3 +17,8 @@ https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer
 ## PermMissingElem
 Find the missing element in a given permutation.\
 https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
+
+# Lesson 6 Sorting
+## Distinct
+Compute number of distinct values in an array.
+https://app.codility.com/programmers/lessons/6-sorting/distinct/
